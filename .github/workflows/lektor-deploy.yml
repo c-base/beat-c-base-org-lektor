@@ -3,7 +3,7 @@ name: 'Lektor deploy to webserver.c-base.org'
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   lektor-build:
