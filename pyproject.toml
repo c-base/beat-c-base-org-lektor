@@ -9,3 +9,7 @@ dependencies = [
     "lektor>=3.3.12",
     "pytest>=8.3.5",
 ]
+
+# Needed to run `uv pip install -e .`
+[tool.setuptools]
+py-modules = []
