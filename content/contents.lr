@@ -1,59 +1,24 @@
-_model: home
+_model: page
 ---
-title: Raumstation unter Berlin
+title: BEAT
 ---
 content:
 
 #### markdown ####
 text:
 
-  <section id="content-buttons">
-    <ul class="row wrap">
-      <li><a class="button" href="https://www.c-base.org/cv50f/">about c-base</a></li>
-      <li><a class="button" href="https://www.c-base.org/cv50f/core/member.html">Member werden</a></li>
-      <li><a class="button" href="https://www.c-base.org/cv50f/">c-base unterst&uuml;tzen</a></li>
-    </ul>
-  </section>
-#### infobox ####
-image: 
-----
-text:
+# BEAT!
 
-## Sponsoren
+What is BEAT? Beats me.
 
-Die c-base fliegt durch die Unterstützung durch:
+## Headline Level 2
 
-<div class="center">
-  <img alt="IPB - Internet Provider Berlin-Logo" src="ipb.png" style="margin-right: 20px;">
-  <img alt="SysEleven-Logo" src="syseleven.png">
-</div>
+Das ist alles nur Markdown hier, Digga!
 
-<a class="button" href="sponsors/">Alle Infos zu den Sponsoren</a>  
-----
-class: center
----
-sidebar:
+  - Listen
+  - sind
+  - lang
 
-#### sidebar-section ####
-title: Termine
-----
-text:
+## Unterseiten
 
-<div id="upcoming"></div>
-
-<a class="button full-width" href="calendar/">Alle Termine</a>
-#### sidebar-section ####
-title: Regelmäßig
-----
-text:
-
-<span class="event_name">NixOS Stammtisch</span><br>
-dienstags 19:00
-
-<a href="https://digitalegesellschaft.de/featured_item/netzpolitischer-abend/">Netzpolitischer Abend</a><br>
-jeden 1. Dienstag im Monat, 20:00
-
-<span class="event_name">c-lounge</span><br>
-donnerstags 20:30
-
-<a class="button full-width" href="calendar/">Zum Kalender</a>
+Hier geht es zur [Unterseite](/subpage/).

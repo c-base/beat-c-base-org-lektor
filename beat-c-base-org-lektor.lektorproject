@@ -1,0 +1,8 @@
+[project]
+name = beat-c-base-org-lektor
+
+[servers.production]
+name = webserver.c-base.org
+enabled = yes
+default = yes
+target = rsync://www-deploy@webserver.c-base.org/var/www/beat.c-base.org/www-deploy/
