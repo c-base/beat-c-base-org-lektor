@@ -9,58 +9,61 @@ text:
 
 # BEAT
 
-BEAT ist ein Akronym für "**B**erlin **E**lektronisches **A**udio **T**üfteln", und ist eine Veranstaltung, bei der es genau darum geht.
+BEAT is an acronym for "**B**erlin **E**lektronisches **A**udio **T**üfteln", or in English:  "**B**erlin **E**lectronic **A**udio **T**inkering", and is an event about exactly that.
 
-BEAT is an acronym for "**B**erlin **E**lectronic **A**udio **T**inkerung", and is an event about exactly that.
-
-## Datum
-
-BEAT findet jeden zweiten Montag im Monat ab 19:00 Uhr auf der c-base statt.
+## Date
 
 BEAT takes place every second Monday of a month from 19:00 on the c-base.
 
-## Veranstaltungsstruktur / Event structure
+Next BEAT is on 2025-05-12.
 
-Grob ist die Veranstaltung in 2 Phasen unterteilt:
-- Präsentationen
-  - Teilnehmer können vorne an der Bühne etwas vorstellen.
-  - An der Leinwand kann von einem Laptop den Bildschirm teilen, oder auch über eine Kamera von oben Hardware präsentieren.
-  - Die Präsentationen werden aufgenommen und gestreamt.
-  - Die Art der Präsentation ist sehr frei:  Demonstration eines Aufbaus, Vorstellung eines Produktes, Vortrag über ein Projekt, etc.
-- Sozialer Teil
-  - Hier kann man mit allen sozialisieren und sich austauschen.
-  - Dieser Teil ist auch dafür gedacht, um mitgebrachte Geräte auszupacken.
-  - Es gibt die Möglichkeit, mit anderen zusammen zu jammen über unseren Mixer und unsere Anlage.
-  - Wir stellen auch Mixer, Kopfhörersplitter, und kleine Boxen zur Verfügung, damit man sich mit anderen eine weitere kleine Station in der Ecke aufbauen kann.
+## Event structure
 
-Roughly speaking, the event is split into 2 parts:
-- Presentations
-  - Participants can present something at the front stage.
-  - You can share your laptop screen or present hardware via our overhead camera to the canvas.
-  - The presentations will be recorded and streamed.
-  - The type of presentation is not restricted:  A demonstration of a setup, a showcase of a product, a talk about a project, etc.
-- Social part
-  - Here you can socialize and exchange ideas with everyone.
-  - This part is also meant for getting out your own gear.
-  - There is the possibility of jamming with others via our mixer and our music system.
-  - We also supply mixers, headphone splitters, and small speakers, such that you can have another small station in the corner with others. 
+Roughly speaking, the event is split into 2 parts.
 
-## Mitmachen / Participate
+### Presentations
 
-TODO
+- Participants can present something at the front stage.
+- You can share your laptop screen or present hardware via our overhead camera to the canvas.
+- The presentations will be recorded and streamed.
+- The type of presentation is not restricted:  A demonstration of a setup, a showcase of a product, a talk about a project, etc.
 
-### Präsentationen / Presentations
+### Social part
 
-TODO
+- Here you can socialize and exchange ideas with everyone.
+- This part is also meant for getting out your own gear.
+- There is the possibility of jamming with others via our mixer and our music system.
+- We also supply mixers, headphone splitters, and small speakers, such that you can have another small station in the corner with others. 
 
-### Jam
+## Participate
 
-TODO
+You are more than welcome to participate!  Please contact us in advance, so we can prepare the program and technical necessities.
+
+### Presentations
+
+- Presentation should typically be around 20 minutes long at max (plus 5 minutes for questions).
+- Please let us know via the contact information below, what you would like to present and how long you plan your presentation to be.
+- Let us know also about technical requirements --- what will be shown (laptop screen and/or overhead camera?) and how we can receive audio (what kind of audio output connectivity does your device have?).
+- Longer presentations or even a full evening about one topic are also possible.  Just let us know what you are thinking of and we can see if we can make it work.  It's all about tinkering!
+- Typically, presentations are held in English, but you can also do a presentation in German if you like.
+
+### Social part
+
+Do you want to be part of a jam session?  You want to share something for hands-on at a seperate table?
+
+Please let us know before the event (or at the least earlier at the event before a possible jam) so we can coordinate.
+- What will you bring?
+- What audio connectivity does it have?  Does it have MIDI sync or Clock capabilities?
+
+You are also welcome to just bring your gear and check out the situation in the moment, just talk to us at the event!
 
 ## Stream & Videos
 
-TODO
+Our events will be streamed and recorded.  There is an overhead camera pointed at the table and one facing the presenter/jam session.  The audience will not be recorded.
+
+Please respect our camera policy at c-base!  Do not take any pictures or videos.  Only our in-house recording team, who is very careful to respect your privacy, has permission to do this.
 
 ## Kontakt
 
 - `berber [das at Symbol] c-base.org`
+- [`#beat:c-base.org`](https://matrix.to/#/#beat:c-base.org) on matrix.
