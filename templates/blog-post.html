@@ -1,9 +1,10 @@
 {% extends "layout.html" %}
 {% block title %}{{ this.title }} | My Blog{% endblock %}
 {% block body %}
-  <h1>{{ this.title }}
+  <h1>{{ this.title }}</h1>
   <p class="meta">
     by {{ this.author }}
     on {{ this.pub_date|dateformat('full') }}
-  <div class="body">{{ this.body }}</div>
+  </p>
+  {{ this.body }}
 {% endblock %}
