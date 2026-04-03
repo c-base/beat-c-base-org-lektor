@@ -1,6 +1,4 @@
-_model: blog-post
----
-title: BEAT subpage
+title: Coding Sprint im April
 ---
 pub_date: 2026-04-03
 ---
@@ -8,7 +6,7 @@ author: berber und brikk
 ---
 body:
 
-# Coding sprint im April
+# Was haben wir gemacht?
 
 Wir machen gerade coding sprint.
 
