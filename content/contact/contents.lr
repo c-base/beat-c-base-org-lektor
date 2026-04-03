@@ -1,0 +1,15 @@
+_model: page
+---
+title: about BEAT
+---
+content:
+
+#### markdown ####
+text:
+
+## Contact
+
+To get in touch about anything BEAT related, use one of the contacts below:
+
+- `berber [the at symbol] c-base.org`
+- [`#beat:c-base.org`](https://matrix.to/#/#beat:c-base.org) on matrix.
