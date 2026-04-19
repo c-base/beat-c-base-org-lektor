@@ -132,3 +132,4 @@ dmypy.json
 
 # ignore temp files created by Krita and VIM
 *.*~
+/.direnv/
