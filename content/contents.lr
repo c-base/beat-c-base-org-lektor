@@ -9,13 +9,7 @@ text:
 
 # BEAT
 
-BEAT is an acronym for "**B**erlin **E**lektronisches **A**udio **T**üfteln", or in English:  "**B**erlin **E**lectronic **A**udio **T**inkering", and is an event about exactly that.
-
-## Date
-
-BEAT takes place every second Monday of a month from 19:00 on the [c-base](https://c-base.org).
-
-Next BEAT is on 2026-04-13
+BEAT is an acronym for "**B**erlin **E**lektronisches **A**udio **T**üfteln", or in English:  "**B**erlin **E**lectronic **A**udio **T**inkering", and is an event about exactly that.  BEAT takes place every second Monday of a month from 19:00 aboard the [c-base](https://c-base.org).
 
 ---
 sidebar:
@@ -25,6 +19,6 @@ title: SIDEBEAT
 ----
 text:
 
-- Find out [about](./about) BEAT
-- [Contact](./contact) BEAT
-
+- [About](./about)
+- [Contact](./contact)
+- [Past events](./blog)
